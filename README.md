@@ -1,1 +1,1 @@
-# Course-tasks
+Here are the homework tests for the course "Test Automation with Selenium and Python"
